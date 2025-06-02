@@ -106,7 +106,7 @@ const reverseGeocode = async (lat: number, lng: number) => {
     <div className="absolute top-full left-0 mt-2 w-96 bg-white rounded-lg shadow-xl border border-gray-200 z-50 p-4 grid grid-cols-2 gap-4">
       <div className="col-span-2 mb-2">
         <h3 className="font-bold text-lg text-blue-600">HVAC Services</h3>
-        <p className="text-sm text-gray-600">Professional solutions for all your AC needs</p>
+        <p className="text-sm text-gray-600">Professional solutions for all yours only AC needs</p>
       </div>
       
       <ServiceCard 
